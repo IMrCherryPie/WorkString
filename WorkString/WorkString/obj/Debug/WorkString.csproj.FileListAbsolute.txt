@@ -1,0 +1,7 @@
+D:\6 семестр\Васильев\WorkString\WorkString\bin\Debug\WorkString.exe.config
+D:\6 семестр\Васильев\WorkString\WorkString\bin\Debug\WorkString.exe
+D:\6 семестр\Васильев\WorkString\WorkString\bin\Debug\WorkString.pdb
+D:\6 семестр\Васильев\WorkString\WorkString\obj\Debug\WorkString.csprojAssemblyReference.cache
+D:\6 семестр\Васильев\WorkString\WorkString\obj\Debug\WorkString.csproj.CoreCompileInputs.cache
+D:\6 семестр\Васильев\WorkString\WorkString\obj\Debug\WorkString.exe
+D:\6 семестр\Васильев\WorkString\WorkString\obj\Debug\WorkString.pdb
